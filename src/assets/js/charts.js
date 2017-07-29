@@ -1,3 +1,4 @@
+
 if ('undefined' !== typeof module) {
 
     module.exports = function initDemo(){

@@ -1,5 +1,5 @@
 import { Component, OnInit, trigger, state, style, transition, animate } from '@angular/core';
-import initDemo = require('../../../assets/js/charts');
+// import initDemo = require('../../../assets/js/charts.js');
 declare var $:any;
 
 @Component({
@@ -16,6 +16,8 @@ export class HomeComponent implements OnInit{
         //     var $checkbox = $(this);
         //     $checkbox.checkbox();
         // });
-        initDemo();
+        // initDemo();
+       
+
     }
 }
